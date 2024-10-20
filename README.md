@@ -1,5 +1,5 @@
 # Proyecto desarrollado en Python
-## Descripcion
+## Integrantes grupo 8: Juliana, nardelli, Gabriel, Barrios y Maria Roldan
 
 Comprende de un blog orientado a noticias y articulos sobre peliculas
 
